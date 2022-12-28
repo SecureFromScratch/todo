@@ -1,0 +1,4 @@
+/bin/
+/myApp.log
+/myApp.log.*
+/*.lck
